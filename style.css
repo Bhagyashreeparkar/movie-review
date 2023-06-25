@@ -64,3 +64,6 @@ input {
   text-align: center;
   background-color: #151f30;
 }
+.card a {
+  text-decoration: none;
+}
